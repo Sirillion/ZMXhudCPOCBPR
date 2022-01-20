@@ -12,10 +12,10 @@
 
 With the release of A20 SMXhud has now evolved into the world of Harmony. This means that it does now mod deeper than ever before and that opens the door for more and better features. On the flip side this means it is no longer EAC friendly, so turn EAC off.
 
-ZMXhudCPBBMxxl converts the backpack into a 120 slot version for SMXui.
+ZMXhudCPOCBPR converts OCB Pin Recipes to SMX art style. Does NOT add OCB Pin Recipes!
 
 <p align="center">
-  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1642640251-383289520.jpeg" width="1080" title="ZMXhudCPBBM - 63 Slot Backpack - A20">
+  <img src="https://staticdelivery.nexusmods.com/mods/1059/images/22/22-1642640896-1967472903.jpeg" width="1080" title="ZMXhudCPOCBPR - OCB Pin Recipes - A20">
 </p>
 
 
