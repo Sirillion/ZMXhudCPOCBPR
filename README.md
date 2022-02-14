@@ -1,5 +1,5 @@
 # ZMXhudCPOCBPR - COMPATIBILITY PATCH FOR OCB PIN RECIPES
-> Verified to work with: A20.0B238 & A20.1B5
+> Verified to work with: A20.2B2
 
 > Dependencies: [SMXhud](https://github.com/Sirillion/SMXhud), [OCB Pin Recipes](https://www.nexusmods.com/7daystodie/mods/1850).
 
